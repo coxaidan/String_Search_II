@@ -17,7 +17,7 @@ This readme provides more information about our code structure, coding implement
 
 # Project Team (Team #18)
 
-<img src="./images/Project-Team.jpg" width="700" style="padding-bottom: 20px">
+<img src="./images/Project-Team.JPG" width="700" style="padding-bottom: 20px">
 
 
 # Individual Contributions
